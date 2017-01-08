@@ -1,0 +1,19 @@
+{
+  "name": "mumuse",
+  "version": "0.0.1",
+  "description": "Musée sans horaire",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "Lucas Geitner",
+  "license": "MIT",
+  "dependencies": {
+    "next": "2.0.0-beta.16",
+    "react-redux": "^5.0.1",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.7.4",
+    "redux-promise-middleware": "^4.2.0",
+    "redux-thunk": "^2.1.0"
+  }
+}
